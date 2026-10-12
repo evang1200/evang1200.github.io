@@ -6,8 +6,8 @@ const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&
 document.getElementById("year").textContent = new Date().getFullYear();
 
 async function loadPosts() {
-  const res = await fetch("posts.json");
-  const posts = await res.json();
+  const res = await fetch("posts.json", { cache: "no-cache" });
+  const posts = (await res.json()).filter((p) => !p.hidden);
   return posts.sort((a, b) => b.date.localeCompare(a.date));
 }
 
@@ -43,7 +43,7 @@ async function renderPost() {
   try {
     const meta = (await loadPosts()).find((p) => p.slug === slug);
     if (!meta) throw new Error("not found");
-    const md = await (await fetch(`posts/${encodeURIComponent(slug)}.md`)).text();
+    const md = await (await fetch(`posts/${encodeURIComponent(slug)}.md`, { cache: "no-cache" })).text();
     document.title = `${meta.title} · My Blog`;
     el.innerHTML = `
       <header>

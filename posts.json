@@ -7,7 +7,8 @@
       "mental health",
       "policy"
     ],
-    "summary": "What the data says about mental health in the U.S., how we compare to other wealthy countries, and three practical ways to do better."
+    "summary": "What the data says about mental health in the U.S., how we compare to other wealthy countries, and three practical ways to do better.",
+    "hidden": true
   },
   {
     "slug": "why-im-writing",
