@@ -7,7 +7,7 @@ document.getElementById("year").textContent = new Date().getFullYear();
 
 async function loadPosts() {
   const res = await fetch("posts.json", { cache: "no-cache" });
-  const posts = await res.json();
+  const posts = (await res.json()).filter((p) => !p.hidden);
   return posts.sort((a, b) => b.date.localeCompare(a.date));
 }
 

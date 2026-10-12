@@ -15,6 +15,10 @@ Then open http://localhost:8000 (opening index.html directly won't load posts).
 1. Add `posts/<slug>.md`
 2. Add an entry to the top of `posts.json` with the same `slug`, plus `title`, `date`, `tags`, `summary`.
 
+## Hide a post
+
+Add `"hidden": true` to its entry in `posts.json`. It disappears from the site but stays in the repo, so you can bring it back by removing that line.
+
 ## Customize
 
 - Blog name: search and replace "My Blog" in the `.html` files.
