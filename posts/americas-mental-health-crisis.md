@@ -60,49 +60,56 @@ The U.S. ranks third of the 13, and its rate is about 27% above the OECD average
 
 ## How we could fix it
 
-These are my proposals. I've tried to stick to approaches that have worked somewhere, based on evidence.
+These are my proposals. They favor voluntary action over mandates, more choice for patients and providers, decisions made by states and communities, and spending only on what produces results. Each one is tied to evidence, and I've noted where that evidence is weaker.
 
-### 1. Make lethal methods harder to reach in a crisis
+### 1. Work with gun owners to prevent suicide, not against them
 
-Many suicide attempts are impulsive, and the method someone has on hand affects whether they survive.
+Most U.S. suicides involve a gun, and research from other countries shows that access to a lethal method affects whether someone survives a crisis:
 
-- **Switzerland:** A 2003 army reform cut the number of soldiers by half, so fewer service weapons were kept at home. Both gun suicides and overall suicides among affected men fell afterward. Only about 22% of the drop was offset by people using other methods ([Reisch et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23897090/)).
-- **United Kingdom:** In 1998 the UK limited the pack size of over-the-counter painkillers. Suicide deaths from those drugs fell 22% the next year, and the drop lasted ([Hawton et al., BMJ 2004](https://www.bmj.com/content/329/7474/1076.full)).
+- **Switzerland:** After a 2003 army reform meant fewer service weapons were kept at home, suicides fell among the men affected ([Reisch et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23897090/)).
+- **United Kingdom:** Limiting painkiller pack sizes in 1998 cut deaths from those drugs by 22% ([Hawton et al., BMJ 2004](https://www.bmj.com/content/329/7474/1076.full)).
 
-Since most U.S. suicides involve guns, the most direct options are safe-storage education, voluntary temporary storage of guns outside the home during a crisis, and having clinicians routinely ask about access to firearms.
+Gun owners can act on this voluntarily, and the firearms community is already leading the way:
 
-### 2. Put mental health care inside primary care
+- **New Hampshire's Gun Shop Project:** Founded in 2009 together with a gun retailer, it got suicide-prevention materials into a majority of the state's gun shops within two years ([NH Business Review](https://www.nhbr.com/firearms-and-suicide-finding-common-ground/)).
+- **A national version:** The National Shooting Sports Foundation and the American Foundation for Suicide Prevention adapted the idea nationally. NSSF has shipped more than 11,250 toolkits to dealers and ranges ([NSSF](https://www.nssf.org/?p=12994)).
 
-Most people already see a primary care doctor. In the *collaborative care* model, a care manager and a consulting psychiatrist work alongside that doctor. A 2025 analysis pooled data from 35 trials and more than 20,000 patients. It found collaborative care produced better depression outcomes than usual care, with benefits lasting up to 12 months ([Schillok et al., JAMA Psychiatry 2025](https://www.ajmc.com/view/collaborative-care-approaches-ranked-by-depression-outcomes-in-primary-care)). The Netherlands and Sweden already do this in most practices.
+Policy should build on this. Make it legally easy for a gun shop or range to hold a friend's firearms for a while during a hard time. Teach safe storage through hunting and concealed-carry courses. Keep these efforts voluntary and led by gun owners. One caution: there's less hard evidence that voluntary programs reduce deaths than that reduced access does, so they should be measured.
 
-### 3. Build a national, standardized talk-therapy service
+### 2. Get government out of the way of providers
 
-England's NHS Talking Therapies program takes about 1.8 million referrals a year for anxiety and depression. People can refer themselves, the program tracks results, and about half of those who finish treatment recover ([NHS England, 2024–25](https://nhsd-proxy.openprescribing.net/data-and-information/publications/statistical/nhs-talking-therapies-for-anxiety-and-depression-annual-reports/2024-25)). The U.S. has nothing comparable at national scale. A federally funded, state-run version with public outcome data would be a concrete place to start.
+About 137 million Americans live where there aren't enough mental health providers, and licensing rules make that worse. Several reforms let existing professionals reach more patients without new federal programs:
 
-### 4. Fix insurance coverage and the workforce
+- **Licensing compacts:** Roughly 40 states have joined PSYPACT, which lets psychologists see patients by telehealth across state lines. The Counseling Compact, which does the same for counselors, has been enacted in 39 states and D.C., but only a handful are issuing privileges so far ([Triad](https://www.triadhq.com/blog/counseling-compact-goes-live-2026)). The remaining states should join, and the ones that have joined should get their compacts working.
+- **Prescribing psychologists:** Seven states (New Mexico, Louisiana, Illinois, Iowa, Idaho, Colorado and Utah) let specially trained psychologists prescribe psychiatric medication. No state that has done so has repealed it ([Pharmacy Times](https://pharmacytimes.com/view/states-grant-prescribing-authority-to-psychologists)). Other states should consider it, particularly rural ones.
+- **Telehealth:** Keep the telehealth flexibility that now makes mental health care easier to reach in rural areas.
 
-Under the 2008 federal parity law, insurers must cover mental health care on terms no more restrictive than physical health care. In practice, provider networks are often thin. A JAMA Psychiatry study found only 55% of office-based psychiatrists accepted private insurance in 2009–10, compared with about 89% of other doctors. The data is old, but it remains the most-cited national figure ([Weill Cornell summary of Bishop et al.](https://news.weill.cornell.edu/news/2013/12/half-of-psychiatrists-reject-private-and-federal-insurance-preferring-cash)).
+### 3. Pay for results, not programs
 
-A 2024 federal rule tightened parity requirements. In May 2025, federal agencies said they would not enforce its new provisions while it faces a legal challenge ([American Bar Association](https://www.americanbar.org/groups/health_law/resources/esource/2025/status-2024-final-mental-health-parity-rule/)).
+Taxpayers already spend heavily on mental health, so money should go to approaches that produce results:
 
-Practical steps:
+- **Collaborative care:** In this model, a care manager and a consulting psychiatrist work alongside a primary care doctor. A 2025 analysis of 35 trials found it improves depression outcomes ([JAMA Psychiatry 2025](https://www.ajmc.com/view/collaborative-care-approaches-ranked-by-depression-outcomes-in-primary-care)).
+- **It can save money:** In the IMPACT trial, older patients in collaborative care had about $3,360 lower total health costs over four years than those in usual care ([Unützer et al., 2008](https://www.ajmc.com/view/feb08-2835p095-100)). That estimate comes from only two of the trial's eight sites.
+- **Measuring outcomes is possible:** England's talk-therapy program reports recovery rates for its patients every year ([NHS England](https://nhsd-proxy.openprescribing.net/data-and-information/publications/statistical/nhs-talking-therapies-for-anxiety-and-depression-annual-reports/2024-25)). American programs paid for with public money should report results the same way, and funding should follow results.
+- **988:** The crisis line has handled more than 23 million contacts since 2022 ([Pew Charitable Trusts](https://www.pew.org/en/research-and-analysis/articles/2026/07/24/4-years-later-988-suicide-and-crisis-lifeline-shows-successes-and-opportunities-for-improvement)). States run it, and states should be held to clear standards for answer times and follow-up care.
 
-- Enforce network-adequacy standards.
-- Pay mental health care at rates comparable to medical care.
-- Expand loan repayment for clinicians who work in shortage areas.
-- Train more peer specialists and counselors at the bachelor's and master's level.
+### 4. Make insurers deliver what they sell
 
-### 5. Fund what happens after someone calls 988
+When people pay for insurance, the network they're promised should actually exist. Many plans list "ghost" providers who have retired, moved or stopped taking patients. The No Surprises Act, signed in December 2020, already requires plans to verify their directories every 90 days, remove providers they can't verify and keep their listings current. Enforcement has been weak ([Petrie-Flom Center, Harvard Law](https://petrieflom.law.harvard.edu/2023/12/06/addressing-ghost-networks-in-mental-health-care/)). Enforcing an existing consumer-protection law is cheaper and simpler than writing new mandates.
 
-The 988 Suicide & Crisis Lifeline has received more than 23 million calls, texts and chats since it launched in July 2022 ([Pew Charitable Trusts, 2026](https://www.pew.org/en/research-and-analysis/articles/2026/07/24/4-years-later-988-suicide-and-crisis-lifeline-shows-successes-and-opportunities-for-improvement)). The demand is clearly there. A hotline only works if it can connect people to follow-up care, which means stable funding for mobile crisis teams and crisis stabilization centers.
+### 5. Strengthen family, faith and community
 
-### 6. Keep doing what's lowering overdose deaths
+Policy can only do so much, and much of what protects people happens outside the clinic. A Harvard study followed nearly 90,000 women for 14 years. Those who attended religious services at least weekly had about one-fifth the suicide rate of women who never attended ([VanderWeele et al., JAMA Psychiatry 2016](https://news.harvard.edu/gazette/story/newsplus/church-attendance-may-lower-suicide-risk-in-women/)). That shows a connection, not proof that one causes the other, and the authors didn't recommend prescribing church attendance.
 
-The 2024 drop in overdose deaths happened alongside wider naloxone access, expanded addiction treatment and opioid settlement funding ([CDC](https://www.cdc.gov/media/releases/2025/2025-statement-from-cdcs-national-center-for-injury-prevention-and-control-on-provisional-2024.html)). Researchers haven't settled exactly how much each one contributed. Cutting that funding now would risk undoing the most encouraging trend in this whole picture.
+Still, it fits a broader pattern: people with strong ties to family, congregation and community tend to do better. Government shouldn't stand in the way of faith groups, veterans' organizations and community groups that do this work, and states can partner with them on suicide-prevention training.
+
+### 6. Pair compassion with accountability on drugs
+
+Overdose deaths fell 26% in 2024. That happened alongside wider naloxone access and expanded addiction treatment, and that work should continue. For people whose addiction has brought them into the justice system, drug courts combine treatment with judicial supervision and consequences. A review of 154 evaluations found that participants reoffended at 38%, compared with 50% for similar non-participants, and the effect lasted at least three years ([Mitchell et al., Campbell Systematic Reviews 2012](https://doaj.org/article/923273c383884510b25d2132400bb88c)). States should expand them.
 
 ## The bottom line
 
-Compared with other wealthy countries, the U.S. spends more on health care and gets worse results: one of the highest suicide rates, one of the highest overdose death rates and some of the hardest-to-reach mental health care. Other countries show that these outcomes can be changed.
+Compared with other wealthy countries, the U.S. spends more on health care and gets worse results: one of the highest suicide rates, one of the highest overdose death rates and some of the hardest-to-reach mental health care. More spending alone won't fix that. What should help is making it easier for providers to practice, paying only for programs that produce results, and supporting the families, congregations and gun owners who are often the first to notice someone in trouble.
 
 ---
 
@@ -120,5 +127,11 @@ Compared with other wealthy countries, the U.S. spends more on health care and g
 - [Commonwealth Fund: Mental health conditions and substance use, U.S. vs. 10 countries (2020)](https://www.commonwealthfund.org/publications/issue-briefs/2020/may/mental-health-conditions-substance-use-comparing-us-other-countries)
 - [Reisch et al. (2013), Swiss Army XXI reform and suicide](https://pubmed.ncbi.nlm.nih.gov/23897090/)
 - [Hawton et al. (2004), UK analgesic pack legislation, BMJ](https://www.bmj.com/content/329/7474/1076.full)
+- [NSSF: Suicide prevention partnership with AFSP](https://www.nssf.org/?p=12994)
+- [Pharmacy Times: States granting prescribing authority to psychologists](https://pharmacytimes.com/view/states-grant-prescribing-authority-to-psychologists)
+- [Unützer et al. (2008), IMPACT collaborative care and long-term costs](https://www.ajmc.com/view/feb08-2835p095-100)
+- [Petrie-Flom Center: Addressing ghost networks in mental health care](https://petrieflom.law.harvard.edu/2023/12/06/addressing-ghost-networks-in-mental-health-care/)
+- [VanderWeele et al. (2016), Religious service attendance and suicide, JAMA Psychiatry](https://news.harvard.edu/gazette/story/newsplus/church-attendance-may-lower-suicide-risk-in-women/)
+- [Mitchell et al. (2012), Drug courts' effects on offending, Campbell Systematic Reviews](https://doaj.org/article/923273c383884510b25d2132400bb88c)
 - [NHS Talking Therapies annual report 2024–25](https://nhsd-proxy.openprescribing.net/data-and-information/publications/statistical/nhs-talking-therapies-for-anxiety-and-depression-annual-reports/2024-25)
 - [Pew Charitable Trusts: 988 at four years](https://www.pew.org/en/research-and-analysis/articles/2026/07/24/4-years-later-988-suicide-and-crisis-lifeline-shows-successes-and-opportunities-for-improvement)
