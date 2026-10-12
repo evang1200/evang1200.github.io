@@ -1,16 +1,31 @@
 [
   {
+    "slug": "americas-mental-health-crisis",
+    "title": "America's mental health crisis, by the numbers",
+    "date": "2026-10-12",
+    "tags": [
+      "mental health",
+      "policy"
+    ],
+    "summary": "What the data says about mental health in the U.S., how we compare to other wealthy countries, and six evidence-based ways to do better."
+  },
+  {
     "slug": "hello-world",
     "title": "Hello, world",
     "date": "2026-10-12",
-    "tags": ["meta"],
+    "tags": [
+      "meta"
+    ],
     "summary": "Why I started this blog and what I plan to write about."
   },
   {
     "slug": "how-to-write-a-post",
     "title": "How to add a new post",
     "date": "2026-10-11",
-    "tags": ["meta", "how-to"],
+    "tags": [
+      "meta",
+      "how-to"
+    ],
     "summary": "A quick reference for writing posts on this site. Delete it when you're done."
   }
 ]
