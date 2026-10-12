@@ -60,9 +60,25 @@ The U.S. ranks third of the 13, and its rate is about 27% above the OECD average
 
 ## How we could fix it
 
-These are my proposals. They favor voluntary action over mandates, more choice for patients and providers, decisions made by states and communities, and spending only on what produces results. Each one is tied to evidence, and I've noted where that evidence is weaker.
+These are my proposals. They favor voluntary action over mandates, more choice for patients and providers, decisions made by states and communities, and spending only on what produces results. They start where I think the answer starts: with families, faith and community. Each one is tied to evidence, and I've noted where that evidence is weaker.
 
-### 1. Work with gun owners to prevent suicide, not against them
+### 1. Start with family, faith and connection
+
+Clinics and policy matter, but most of what protects people from despair happens long before anyone sees a doctor. It happens at home, in congregations and among friends. The evidence supports making this the starting point.
+
+- **Loneliness is a health risk.** In 2023 the U.S. Surgeon General declared loneliness and isolation a public health epidemic. His advisory found that social disconnection raises the risk of depression and anxiety, and that its risk of early death is comparable to smoking up to 15 cigarettes a day ([Associated Press](https://abc17news.com/news/ap-national-news/2023/05/02/loneliness-poses-risks-as-deadly-as-smoking-surgeon-general/)).
+- **Marriage is protective.** A national study of suicides in Norway from 1992 to 2012 found that married people had lower suicide risk than people who were never married, divorced, separated or widowed. That held even after adjusting for income and education. Risk was highest in the first month after a separation ([Næss, Mehlum & Qin, SSM – Population Health 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8242039)).
+- **Faith is protective.** A Harvard study followed nearly 90,000 U.S. women for 14 years. Those who attended religious services at least weekly had about one-fifth the suicide rate of women who never attended ([VanderWeele et al., JAMA Psychiatry 2016](https://news.harvard.edu/gazette/story/newsplus/church-attendance-may-lower-suicide-risk-in-women/)).
+
+These are connections, not proof that one thing causes the other. People who are already struggling may be less likely to marry or attend services. Even so, the pattern is consistent across countries and types of study, and it matches common sense: people who belong to something and are needed by others are more resilient.
+
+In practice, that means:
+
+- Policy shouldn't penalize marriage.
+- Government shouldn't crowd out churches, synagogues, veterans' groups and community organizations. It should partner with them on suicide-prevention training.
+- Divorce and separation should be treated as a moment of real risk, especially for men, so that family, friends and clergy know to check in.
+
+### 2. Work with gun owners to prevent suicide, not against them
 
 Most U.S. suicides involve a gun, and research from other countries shows that access to a lethal method affects whether someone survives a crisis:
 
@@ -76,7 +92,7 @@ Gun owners can act on this voluntarily, and the firearms community is already le
 
 Policy should build on this. Make it legally easy for a gun shop or range to hold a friend's firearms for a while during a hard time. Teach safe storage through hunting and concealed-carry courses. Keep these efforts voluntary and led by gun owners. One caution: there's less hard evidence that voluntary programs reduce deaths than that reduced access does, so they should be measured.
 
-### 2. Get government out of the way of providers
+### 3. Get government out of the way of providers
 
 About 137 million Americans live where there aren't enough mental health providers, and licensing rules make that worse. Several reforms let existing professionals reach more patients without new federal programs:
 
@@ -84,7 +100,7 @@ About 137 million Americans live where there aren't enough mental health provide
 - **Prescribing psychologists:** Seven states (New Mexico, Louisiana, Illinois, Iowa, Idaho, Colorado and Utah) let specially trained psychologists prescribe psychiatric medication. No state that has done so has repealed it ([Pharmacy Times](https://pharmacytimes.com/view/states-grant-prescribing-authority-to-psychologists)). Other states should consider it, particularly rural ones.
 - **Telehealth:** Keep the telehealth flexibility that now makes mental health care easier to reach in rural areas.
 
-### 3. Pay for results, not programs
+### 4. Pay for results, not programs
 
 Taxpayers already spend heavily on mental health, so money should go to approaches that produce results:
 
@@ -93,15 +109,9 @@ Taxpayers already spend heavily on mental health, so money should go to approach
 - **Measuring outcomes is possible:** England's talk-therapy program reports recovery rates for its patients every year ([NHS England](https://nhsd-proxy.openprescribing.net/data-and-information/publications/statistical/nhs-talking-therapies-for-anxiety-and-depression-annual-reports/2024-25)). American programs paid for with public money should report results the same way, and funding should follow results.
 - **988:** The crisis line has handled more than 23 million contacts since 2022 ([Pew Charitable Trusts](https://www.pew.org/en/research-and-analysis/articles/2026/07/24/4-years-later-988-suicide-and-crisis-lifeline-shows-successes-and-opportunities-for-improvement)). States run it, and states should be held to clear standards for answer times and follow-up care.
 
-### 4. Make insurers deliver what they sell
+### 5. Make insurers deliver what they sell
 
 When people pay for insurance, the network they're promised should actually exist. Many plans list "ghost" providers who have retired, moved or stopped taking patients. The No Surprises Act, signed in December 2020, already requires plans to verify their directories every 90 days, remove providers they can't verify and keep their listings current. Enforcement has been weak ([Petrie-Flom Center, Harvard Law](https://petrieflom.law.harvard.edu/2023/12/06/addressing-ghost-networks-in-mental-health-care/)). Enforcing an existing consumer-protection law is cheaper and simpler than writing new mandates.
-
-### 5. Strengthen family, faith and community
-
-Policy can only do so much, and much of what protects people happens outside the clinic. A Harvard study followed nearly 90,000 women for 14 years. Those who attended religious services at least weekly had about one-fifth the suicide rate of women who never attended ([VanderWeele et al., JAMA Psychiatry 2016](https://news.harvard.edu/gazette/story/newsplus/church-attendance-may-lower-suicide-risk-in-women/)). That shows a connection, not proof that one causes the other, and the authors didn't recommend prescribing church attendance.
-
-Still, it fits a broader pattern: people with strong ties to family, congregation and community tend to do better. Government shouldn't stand in the way of faith groups, veterans' organizations and community groups that do this work, and states can partner with them on suicide-prevention training.
 
 ### 6. Pair compassion with accountability on drugs
 
@@ -109,7 +119,7 @@ Overdose deaths fell 26% in 2024. That happened alongside wider naloxone access 
 
 ## The bottom line
 
-Compared with other wealthy countries, the U.S. spends more on health care and gets worse results: one of the highest suicide rates, one of the highest overdose death rates and some of the hardest-to-reach mental health care. More spending alone won't fix that. What should help is making it easier for providers to practice, paying only for programs that produce results, and supporting the families, congregations and gun owners who are often the first to notice someone in trouble.
+Compared with other wealthy countries, the U.S. spends more on health care and gets worse results: one of the highest suicide rates, one of the highest overdose death rates and some of the hardest-to-reach mental health care. More spending alone won't fix that. What should help is making it easier for providers to practice, paying only for programs that produce results, and above all, strengthening the families, congregations and communities that keep people connected. They're usually the first to notice when someone is in trouble.
 
 ---
 
@@ -131,6 +141,8 @@ Compared with other wealthy countries, the U.S. spends more on health care and g
 - [Pharmacy Times: States granting prescribing authority to psychologists](https://pharmacytimes.com/view/states-grant-prescribing-authority-to-psychologists)
 - [Unützer et al. (2008), IMPACT collaborative care and long-term costs](https://www.ajmc.com/view/feb08-2835p095-100)
 - [Petrie-Flom Center: Addressing ghost networks in mental health care](https://petrieflom.law.harvard.edu/2023/12/06/addressing-ghost-networks-in-mental-health-care/)
+- [Surgeon General's 2023 advisory on loneliness (AP coverage)](https://abc17news.com/news/ap-national-news/2023/05/02/loneliness-poses-risks-as-deadly-as-smoking-surgeon-general/)
+- [Næss, Mehlum & Qin (2021), Marital status and suicide risk in Norway](https://pmc.ncbi.nlm.nih.gov/articles/PMC8242039)
 - [VanderWeele et al. (2016), Religious service attendance and suicide, JAMA Psychiatry](https://news.harvard.edu/gazette/story/newsplus/church-attendance-may-lower-suicide-risk-in-women/)
 - [Mitchell et al. (2012), Drug courts' effects on offending, Campbell Systematic Reviews](https://doaj.org/article/923273c383884510b25d2132400bb88c)
 - [NHS Talking Therapies annual report 2024–25](https://nhsd-proxy.openprescribing.net/data-and-information/publications/statistical/nhs-talking-therapies-for-anxiety-and-depression-annual-reports/2024-25)
