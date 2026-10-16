@@ -76,3 +76,14 @@ time { font-family: var(--sans); font-size: 13px; color: var(--muted); text-tran
 .post th { color: var(--muted); font-weight: 600; }
 .post hr { border: 0; border-top: 1px solid var(--line); margin: 2.5em 0; }
 .post h3 { font-size: 20px; margin: 1.6em 0 0.3em; }
+
+.site-header { flex-wrap: wrap; gap: 8px 0; }
+.site-header nav a:first-child { margin-left: 0; }
+.site-header nav { display: flex; flex-wrap: wrap; gap: 4px 20px; }
+.site-header nav a { margin-left: 0; }
+.meta { display: flex; flex-wrap: wrap; gap: 4px 12px; align-items: baseline; }
+.place { font-family: var(--sans); font-size: 13px; color: var(--muted); }
+.place a { color: var(--muted); text-decoration: none; }
+.place a:hover { color: var(--accent); }
+.topic-heading { font-family: var(--sans); font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin: 36px 0 0; padding-bottom: 8px; border-bottom: 1px solid var(--line); }
+.post-list li.empty { color: var(--muted); font-style: italic; padding: 16px 0; }

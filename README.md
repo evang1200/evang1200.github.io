@@ -13,7 +13,9 @@ Then open http://localhost:8000 (opening index.html directly won't load posts).
 ## Write a post
 
 1. Add `posts/<slug>.md`
-2. Add an entry to the top of `posts.json` with the same `slug`, plus `title`, `date`, `tags`, `summary`.
+2. Add an entry to `posts.json` with the same `slug`, plus `title`, `date` (YYYY-MM-DD), `section` (`professional` or `personal`), `topic` and `summary`.
+
+The list of sections and topics is at the top of `app.js`. A post without a `section` only appears on the home page.
 
 ## Hide a post
 
